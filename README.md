@@ -62,7 +62,7 @@ Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-cl
 
 ## Avaliação 
 
-NOTAS PARCIAIS VÃO SENDO COLOCADAS[AQUI](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1200574372&single=true)
+**NOTAS PARCIAIS VÃO SENDO COLOCADAS [AQUI](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1200574372&single=true)
 
 *Nota: Este cálculo é automático e será revisto antes do lançamento das classificações finais.
 
