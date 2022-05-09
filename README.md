@@ -62,6 +62,10 @@ Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-cl
 
 ## Avaliação 
 
+NOTAS PARCIAIS VÃO SENDO COLOCADAS[AQUI](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1200574372&single=true)
+
+*Nota: Este cálculo é automático e será revisto antes do lançamento das classificações finais.
+
 ### 1. Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
 Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
