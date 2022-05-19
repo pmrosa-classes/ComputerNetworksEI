@@ -47,19 +47,21 @@ VLAN 60 – 192.168.60.0/22 – 2001:1:1:60::/64 – Acesso Remoto
 ```
 10.	Devem ser utilizados vários servidores no Datacenter:
 ```
-srv01 – 10.10.10.11 - DHCP  – com configuração de todas as pools necessárias para postos de trabalho e equipamentos IoT.   
-srv02 - 10.10.10.12 - Servidor Primário DNS - Deverão ser colocados os registos dos nomes de todos os servidores no DNS.
-srv03 - 10.10.10.13 - Servidor VPN
-srv04 – 10.10.11.11 - Servidor de HTTP - com página levemente customizada da Instituição
-srv05 – 10.10.11.12 - Servidor de Mail – exemplificar com 10 contas de mail
-srv06 – 10.10.11.13 - Servidor de Registo de IoT - para todos os equipamentos IoT da empresa.
+VLAN 100 - srv01 – 10.10.10.11 - DHCP  – com configuração de todas as pools necessárias para postos de trabalho e equipamentos IoT.   
+VLAN 100 - srv02 - 10.10.10.12 - Servidor Primário DNS - Deverão ser colocados os registos dos nomes de todos os servidores no DNS.
+VLAN 100 - srv03 - 10.10.10.13 - Servidor VPN
+VLAN 100 - srv04 – 10.10.11.11 - Servidor de HTTP - com página levemente customizada da Instituição
+VLAN 100 - srv05 – 10.10.11.12 - Servidor de Mail – exemplificar com 10 contas de mail
+VLAN 100 - srv06 – 10.10.11.13 - Servidor de Registo de IoT - para todos os equipamentos IoT da empresa.
 ```
-12.	Sendo edifícios inteligentes, devem ser implementadas as seguintes funcionalidades:
+*Nota: VLAN100 modificado no final do prazo do trabalho, não é relevante ser esta VLAN mesmo.*
+
+11.	Sendo edifícios inteligentes, devem ser implementadas as seguintes funcionalidades:
 -	Gerir a **temperatura** interna em cada edifício através de um display adequado.
 -	Os edifícios têm **sistema de deteção de incêndios** em todos os pisos. Caso seja detetado um incendio deve tocar uma **sirene** e **ligado o sistema de extinção de incêndios**.
 -	Os edifícios têm **sensores de CO2**. Uma vez detetado um valor superior a 75% as **janelas devem ser abertas** e a **extração de ar deve ser ligada**. Todo o sistema deve ser desligado quando voltarem a valores inferior a 60%.
 -	As portas de entrada dos edifícios têm **controlo por RFID**. Só os utilizadores com cartões válidos devem poder entrar (exemplificar com alguns casos). Sempre que algum cartão inválido seja lido, deve ser ligada uma sirene.
-13.	Criar uma rede externa, que simula o acesso à Internet, interligando com o router da empresa. Devem ser criados dois websites: portal.pt e google.pt (que deverão existir nos servidores de DNS). Deve ser configurada a interligação dessa rede com o router da empresa através de uma rede de 30 bits.
+12.	Criar uma rede externa, que simula o acesso à Internet, interligando com o router da empresa. Devem ser criados dois websites: portal.pt e google.pt (que deverão existir nos servidores de DNS). Deve ser configurada a interligação dessa rede com o router da empresa através de uma rede de 30 bits.
 
 **Notas:**
 - Colocar alguns computadores pessoais a título de exemplo em cada piso. Não é, obviamente, necessário todos os computadores pessoais.
