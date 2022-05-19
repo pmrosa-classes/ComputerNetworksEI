@@ -76,3 +76,4 @@ srv06 – 10.10.11.13 - Servidor de Registo de IoT - para todos os equipamentos 
 - Ficheiro(s) packet tracer;
 - Notas adicionais para a correta avaliação por parte dos Docentes.
 
+**Deve entregar um unico ficheiro ZIP com a identificação do grupo e do trabalhoo: Gxx-TrabPacketTracerI.zip**
