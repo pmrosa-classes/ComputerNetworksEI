@@ -135,6 +135,7 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - Engenharia de Redes Informáticas, Edmundo Monteiro, Fernando Boavida, Editora FCA
 
 ## Log
+- 2022.05.20: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1889860247&single=true) as classificações do Trabalho Prático de Captura de Tráfego
 - 2022.04.06: Veja [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7W8DWN7nqIehNu8iVlAwD82BJiTac2m0v2sZ4d56q-nybbrWNlSQ63RirHW5_wt4MFKfJLlfR3HNC/pubhtml?gid=1944461714&single=true) as classificações do Trabalho Prático Routing II
 - 2022.05.05: Trabalho Prático de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabP-CapturaPacotes.md)
 - 2022.05.01: Laboratório de Captura de Tráfego já disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md)
